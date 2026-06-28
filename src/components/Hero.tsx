@@ -77,7 +77,7 @@ export default function Hero() {
           >
             <div className="aspect-[4/5] rounded-[3rem] overflow-hidden shadow-2xl relative border-8 border-white">
               <img
-                src="/villa jumellee.webp"
+                src="villa jumellee.webp"
                 alt="Villa Jumelée - Benslimane Hills"
                 className="w-full h-full object-cover"
               />

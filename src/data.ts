@@ -12,7 +12,7 @@ export const HERO_CONTENT = {
   badge: 'VISION 2030 : BENSLIMANE AU CŒUR DU MONDE',
   heading: 'Anticiper la croissance.',
   description: 'Le Domaine Benslimane Hills s’inscrit dans la transformation spectaculaire de la région, entre nature préservée et infrastructures d’envergure mondiale. Investissez dès aujourd’hui à partir de 2000 dh/m².',
-  mainImage: '/villa jumellee.webp',
+  mainImage: 'villa jumellee.webp',
   priceBadge: {
     title: 'PRIX DE LANCEMENT',
     price: '2000',
@@ -40,14 +40,14 @@ export const INFRASTRUCTURES_CONTENT = {
       tag: 'PROJET MONDIAL',
       title: 'Grand Stade Hassan II',
       description: '115 000 places, un monument architectural d’exception au rayonnement planétaire, à quelques minutes seulement de votre futur terrain.',
-      imageUrl: '/grand_stade_hassan_2.jpg'
+      imageUrl: 'grand_stade_hassan_2.jpg'
     },
     {
       id: 'tgv',
       tag: 'CONNECTIVITÉ NATIONALE',
       title: 'Pôle Ferroviaire TGV',
       description: 'Connectez Benslimane à Casablanca, Rabat et Tanger en un temps record grâce à la future infrastructure ferroviaire moderne.',
-      imageUrl: '/gare_tgv_benslimane.webp'
+      imageUrl: 'gare_tgv_benslimane.webp'
     }
   ] as ProjectCard[]
 };
@@ -55,7 +55,7 @@ export const INFRASTRUCTURES_CONTENT = {
 export const PLAN_MASSE_CONTENT = {
   subtitle: 'VISION URBAINE',
   heading: 'Un Plan de Masse d’Exception.',
-  imageUrl: '/plan masse.webp',
+  imageUrl: 'plan masse.webp',
   legend: [
     {
       id: 'residentiel',
@@ -105,17 +105,17 @@ export const ATOUTS_CONTENT = {
   gallery: [
     {
       id: 'g1',
-      imageUrl: '/vue_bungalow.jpeg',
+      imageUrl: 'vue_bungalow.jpeg',
       alt: 'Aperçu Piscine & Villa'
     },
     {
       id: 'g2',
-      imageUrl: '/vue_hotels.jpeg',
+      imageUrl: 'vue_hotels.jpeg',
       alt: 'Vue d’Ensemble Resort'
     },
     {
       id: 'g3',
-      imageUrl: '/lot de terrain pour villa.jpg',
+      imageUrl: 'lot de terrain pour villa.jpg',
       alt: 'Rue Résidentielle Moderne'
     }
   ]

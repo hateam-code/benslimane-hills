@@ -7,7 +7,7 @@ export default function Footer() {
         {/* Brand column */}
         <div>
           <img
-            src="/logo.png"
+            src="logo.png"
             alt="Benslimane Hills Logo"
             className="h-20 w-auto object-contain mb-8"
           />

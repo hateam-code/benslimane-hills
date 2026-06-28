@@ -59,7 +59,7 @@ export default function Atouts() {
       <div className="max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-8">
         <div className="group overflow-hidden rounded-[3rem] shadow-lg aspect-video md:aspect-[4/5] relative">
           <img
-            src="/Immeubble_r2.png"
+            src="Immeubble_r2.png"
             alt="Vue Extérieure"
             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
           />
@@ -73,7 +73,7 @@ export default function Atouts() {
 
         <div className="group overflow-hidden rounded-[3rem] shadow-lg aspect-video md:aspect-[4/5] relative">
           <img
-            src="/vue_hotels.jpeg"
+            src="vue_hotels.jpeg"
             alt="Vue Hôtels"
             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
           />
@@ -87,7 +87,7 @@ export default function Atouts() {
 
         <div className="group overflow-hidden rounded-[3rem] shadow-lg aspect-video md:aspect-[4/5] relative">
           <img
-            src="/vue_bungalow.jpeg"
+            src="vue_bungalow.jpeg"
             alt="Vue Bungalow"
             className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
           />

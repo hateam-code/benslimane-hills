@@ -23,7 +23,7 @@ export default function Infrastructures() {
             className="group relative aspect-square rounded-[2rem] overflow-hidden shadow-lg border border-studio-border/20 cursor-pointer"
           >
             <img
-              src="/grand_stade_hassan_2.jpg"
+              src="grand_stade_hassan_2.jpg"
               alt="Grand Stade Hassan II Render"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
             />
@@ -46,7 +46,7 @@ export default function Infrastructures() {
             className="group relative aspect-square rounded-[2rem] overflow-hidden shadow-lg border border-studio-border/20 cursor-pointer"
           >
             <img
-              src="/gare_tgv_benslimane.webp"
+              src="gare_tgv_benslimane.webp"
               alt="Gare TGV Benslimane Render"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
             />

@@ -15,7 +15,7 @@ export default function PlanDeMasse() {
       <div className="max-w-6xl mx-auto px-6 mb-24">
         <div className="relative rounded-[3rem] overflow-hidden shadow-2xl border border-studio-border/30 bg-white p-4">
           <img
-            src="/plan masse.webp"
+            src="plan masse.webp"
             alt="Plan de Masse Benslimane Hills"
             className="w-full h-auto object-cover rounded-[2.5rem]"
           />
