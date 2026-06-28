@@ -37,7 +37,7 @@ export default function Header() {
         <motion.div
           initial={{ opacity: 0, x: -20 }}
           animate={{ opacity: 1, x: 0 }}
-          className="flex items-center gap-3 cursor-pointer"
+          className="flex items-center cursor-pointer"
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
         >
           <img
@@ -45,9 +45,6 @@ export default function Header() {
             alt="Benslimane Hills Logo"
             className="h-16 md:h-20 w-auto object-contain"
           />
-          <span className="font-serif text-lg md:text-xl font-semibold tracking-wide text-studio-ink">
-            Benslimane Hills
-          </span>
         </motion.div>
 
         {/* Desktop Links & CTA */}
