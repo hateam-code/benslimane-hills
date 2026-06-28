@@ -1,0 +1,6 @@
+{
+  "name": "Benslimane Hills",
+  "description": "Domaine de prestige Benslimane Hills - Lots de terrains exclusifs pour villas modernes en plein cœur de la nature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
